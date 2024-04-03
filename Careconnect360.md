@@ -1,5 +1,8 @@
 # Threat Actors Analysis Report: CareConnect360
 
+> Author: Damaris Alum <br/>
+> Date: March 2024
+
 ## Introduction:
 This report provides an analysis of the threat actors that pose a risk to CareConnect360, a patient management system designed to facilitate communication and collaboration among healthcare providers. Understanding the motivations, capabilities, and tactics of potential threat actors is essential for developing effective cybersecurity strategies and mitigating risks to the system and its data.
 
